@@ -1,4 +1,4 @@
-# [Geoelements Wiki](https://wiki.geoelements.org/)
+# [Geoelements Wiki](https://geoelements.org/wiki/)
 
 We are an extreme-scale computational geomechanics research group based at UT Austin. Our research focus is on developing large-scale computational models to simulate natural hazards. It looks like you recently joined the Geoelements team in UT Austin’s Geotech group at Civil, Architectural, and Environemental Engineering department. That’s great! We’re really glad to have you here, and will do what we can to make your time in the research group amazing. We hope you’ll learn a lot about geomechanics, numerical methods and computational sciences, develop new skills (coding, data analysis, writing, giving talks), make new friends, and have a great deal of fun throughout the whole process.
 

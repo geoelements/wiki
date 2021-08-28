@@ -1,3 +1,3 @@
 <!-- docs/_sidebar.md -->
 
-* [Welcome](welcome.md)
+* [Expectations](expectations.md)
