@@ -1,3 +1,4 @@
 <!-- docs/_sidebar.md -->
 
-* [Expectations](expectations.md)
+* [Expectations and Responsibilities](expectations.md)
+* [Code of Conduct](code-conduct.md)
