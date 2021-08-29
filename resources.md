@@ -49,6 +49,3 @@ Alternatively, we also use the [UT Zoom](https://utexas.zoom.us) account to have
 This Geoelements [wiki](https://github.com/geoelements/wiki) has all of the information you need to get started, including tasks that need to be done upon arrival, day-to-day housekeeping duties, forms and flyers, programming and modeling tips, information about accessing the high-performance computing clusters. Edit it when you obtain information that will be useful for others to know! You can also create wikis of your research documentation. Contact Krishna for further information.
 
 ![Resources](img/tools.png)
-
-# Research workflow
-![Research workflow](img/research-workflow.png ':size=780')
