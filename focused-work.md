@@ -24,7 +24,7 @@
 
 **Break projects into manageable tasks:** It is crucial to work systematically to ensure progress on a regular basis. Start each week with a plan for the week, and the task you need to accomplish every day to achieve the weekly goal. Although this may sound simple, it is a critical step toward completing an ambitious project. Develop the skill to identify and prioritize important tasks within a project, as well as the discipline to meet the daily goals. Break your goal for the week into manageable tasks and assign expected duration for each task and a priority. **Schedule your week to ensure the primary goal(s) of the week are achieved.** 
 
-![Scheulde your week with the most important tasks for the week.](/img/schedule.png)
+![Scheulde your week with the most important tasks for the week.](/img/schedule.png ':size=500')
 
 **Publicly promise your goals and provide updates on your projects.** Conveying your goals to others makes your goals and tasks and your commitments more realistic. This gives you extra motivation to achieve your goals. At the start of the week say 8 AM on Monday, let everyone know, preferably in a public Slack channel of your group called #updates, what are your goals for the week. At this time think about what you would like to achieve on the project you are working on and create a milestone. **Every project should have milestones.** These are **manageable task units that can be finished in 2 weeks** to a month at most. Milestones should be set in the Asana project tab. The goal of the week and milestones help you to have a singular focus for the week. This is your highest priority for the week and helps you to not lose focus on what you are supposed to work on.
 
