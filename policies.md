@@ -1,7 +1,6 @@
 # General Policies
 
 ## Hours
-
 Being in lab is a good way of learning from others, helping others, building camaraderie, having fast and easy access to resources (and people) you need, and being relatively free from distractions at home (e.g., your bed or Netflix). That said, hours in academia are more flexible than other jobs -- but you should still treat it as a real job (40 hours/week) and show up to the lab. My primary concern is that you get your work done, so if you find that you are more productive at home (lab-mates can be chatty sometimes), feel free to work at home occasionally. If you have no meetings, no participants, and no other obligations that day, it might be a good day to work at home – but you can’t do this all the time, and I expect to see everyone in the lab on a regular basis (but see Noise Policy). 
 
 For graduate students, I understand having to be away for classes and TA-ing, but show up to the lab on a regular basis when you don’t have those obligations (but see Noise Policy for more details).
@@ -19,7 +18,6 @@ I love that lab members get along and want to spend time with one another. This 
 
 Motivated by the concerns of some lab members, and in conversation with them, we have devised a set of policies so that you can all work effectively. These policies do not preclude socializing at specific, agreed-upon times (e.g., lunch, happy hours); in fact, we encourage you to! These policies also do not preclude meeting with one another to discuss research, classes, life, etc; again, we encourage you to! But keep these policies in mind:
 
-### Policies
 1. **General quiet time**: Quiet time is between 9am and 5pm in the lab. Please respect other people's needs to work quietly in lab during those times by lowering your voice and generally keeping noise to a minimum. If you do need to talk, do it quietly and/or set up a meeting in a room with closed doors.
 
 2. **Headphone rule**: If someone is wearing headphones, respect their need for quiet. Do not tap them on the shoulder to talk. Do not talk loudly next to them. Exception: if there is a fire alarm or other emergency and they are not aware, do alert them for their own safety.
