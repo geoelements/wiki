@@ -3,6 +3,10 @@ You have made your first step by joining our research group on extreme scale geo
 
 * Read this wiki thoroughly and familiarize yourself with how Geoelements team operates. 
 
+* Getting around: The lab is located in ECJ 9.202. When you enter through the main doors, take the elevator to the 9th floor the lab is right next to the elevator. Krishna's office is also on the 9th floor, room 9.227B. To access the lab, we need to submit a key request form, contact Krishna to arrange a key.
+
+* You may use your own laptop or Krishna would be happy to buy you a new laptop.
+
 * We mainly work using Linux OS, so I recommend installing [Fedora OS](https://getfedora.org/) on your machine. At a minimum install Windows Subsystem on Linux (WSL2) and [run Ubuntu](https://docs.microsoft.com/en-us/windows/wsl/install-win10).
 
 * Sign-up to [DesignSafe-CI](https://designsafe-ci.org/register) and share your username with Krishna so he can add you to relevant projects. DesignSafe is a CyberInfrastructure for Natural Hazard Engineering and offers access to some of the best supercomputing resources at the [Texas Advanced Computing Center - TACC](https://tacc.utexas.edu).
