@@ -1,5 +1,6 @@
 <!-- docs/_sidebar.md -->
 
+* [Getting started](getting-started.md)
 * [Expectations and Responsibilities](expectations.md)
 * [Code of Conduct](code-conduct.md)
 * [Resources](resources.md)

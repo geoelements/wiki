@@ -10,11 +10,11 @@
 **Quantify your goals** – Make sure your goals are **SMART: specific, measurable, achievable, realistic, time-bound.**
 **Use a task manager** like (Asana/Todoist) to keep track of your tasks and deadlines.  
 
-![A list of tasks with tags to identify the project, and a deadline](img/tasks.png)
+![A list of tasks with tags to identify the project, and a deadline](img/tasks.png ':size=500')
 
 **Creating a task – Each specific task should have an estimated time for completion (typically in hours), a priority and a deadline.** It is good to have a detailed description of the task. Remember to be specific about the task you would like to complete. Instead of task titled “work on MPM scaling paper”, create a specific task “Write about dynamic load-balancing implementation in MPM for dam-break simulation”. 
 
-![An example of a task with priority, project association, and most importantly estimated duration and deadline for the task.](img/task-details.png)
+![An example of a task with priority, project association, and most importantly estimated duration and deadline for the task.](img/task-details.png ':size=500')
 
 **Have subtasks if your main task is going to take more than 6 hours.** It is harder to estimates tasks that take longer than 4 hours. 
 
@@ -60,4 +60,4 @@ Always have a **30 minutes buffer between 2-hour focused deep work block.** Thes
 
 **Categorize your tasks and record the time to complete different tasks.** Toggl is a good tool to record time. Categorization of time-taken allows you to understand what tasks you spend the most time on, such as the percentage of time spent on preparing lectures vs writing proposals or papers or codes vs running some simulations or doing homework projects. Weekly reports are good to understand what you thought you were spending your time on to what you actually spent your time on!
 
-![A report from Toggl on how I spent the week](/img/week.png)
+![A report from Toggl on how I spent the week](/img/week.png ':size=500')
