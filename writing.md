@@ -64,6 +64,16 @@ Provide context for your reader before asking that reader to consider anything n
 
 Read the Science of Scientific Writing, this article has wonderful examples of how to communicate effectively. The best read on scientific writing: [https://www.americanscientist.org/blog/the-long-view/the-science-of-scientific-writing](https://www.americanscientist.org/blog/the-long-view/the-science-of-scientific-writing).
 
+> Elements of style
+
+Make the paragraph the unit of composition. Write one paragraph to each topic. A paragraph expresses a complete thought. Begin each paragraph with a topic sentence and end it in conformity with the beginning, although certain exceptions apply. The most useful kind of paragrpah is that in which:
+
+(a) the topic sentence comes at or near the beginning;
+(b) the suceeding sentences explain, establish, or develop the statement made in the topic sentence; and
+(c) the final sentence either emphasizes the through of the topic sentence or states some important consequence.
+
+Avoid ending with a digression or an unimportant detail.
+
 ## Grammatical style
 1. Follow a grammatical subject as soon as possible with its verb.
 
