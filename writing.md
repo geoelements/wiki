@@ -30,11 +30,20 @@ It is easy to get bogged down trying to find the optimal plan for change: the be
 This is equally true for writing, **the more you write, the better you are as a writer.**
 
 ## Guidelines for writing 
+
+**Try to write using ordinary words and simple sentences.** When you write in a fancy way to impress people, you're making them do extra work. The less energy they expend on your prose, the more they'll have left for your ideas. Easier something is to read, the more deeply readers will engage with it. Fancy writing doesn't just conceal ideas. It can also conceal the lack of them. Whereas writing simply keeps you honest.
+
+**Write in spoken language.** You don't need complex sentences to express complex ideas. When specialists talk to one another, they don't use sentences any more complex than they do when talking about what to have for lunch. They use different words, certainly. But even those they use no more than necessary. The harder the subject, the more informally experts speak, because the harder the ideas you're talking about, the less you can afford to let language get in the way.
+
+**Write the first draft fast, then spend days editing it**, trying to get everything just right. Much of this editing is cutting, and that makes simple writing even simpler. Write a bad version 1 as fast as you can; rewrite it over and over; cut out everything unnecessary. Try to tell the reader something new and useful. 
+
+**Spend at least twice as much time editing as you spend writing.** Write without trying to edit, and then allocate a block of time to review your writing, and critically edit it. Read a sentence, now remove it and see if it makes sense without the sentence, if it does, you probably don’t need that sentence.
+
 **Write daily**—Daily writing, even for 15 minutes, seems to be more productive in the long run than “binge writing”.  **The key is to write regularly, and that means daily.** Write down the summary of work at the end of the day, this will help you not just collect your thoughts for the day but also formulate new ideas for the next day.
 
 **Make time to write.** Don’t wait until you have a moment, have a specific time in your day to write. Writing is better than meetings, but you may have to tell people you have a meeting, then go to a quiet spot alone and write for a couple of hours (people respect meetings irrationally than they respect meeting times).
 
-**Stop at a good place**—When you find yourself in the zone and the writing is flowing and the ideas are being put to paper easily there can be a tendency to want to write for a long time. Fight this urge. Stop writing after you reach a certain number of words or at a specific time. If you are worried that you may lose critical ideas, jot them down where you will remember them the next day. 
+**Stop at a good place**—When you find yourself in the zone and the writing is flowing and the ideas are being put to paper easily there can be a tendency to want to write for a long time. Fight this urge. Stop writing after you reach a certain number of words or at a specific time. If you are worried that you may lose critical ideas, jot them down where you will remember them the next day. Work in fairly big quanta of time; when you restart, begin by rereading what you have so far; when you finish, leave yourself something easy to start with.
 
 > The best way is always to stop when you are going good and when you know what will happen next. If you do that every day … you will never be stuck. Always stop while you are going good and don’t think about it or worry about it until you start to write the next day. That way your subconscious will work on it all the time. But if you think about it consciously or worry about it you will kill it and your brain will be tired before you start.
 > - Ernest Hemingway
@@ -46,8 +55,6 @@ This is equally true for writing, **the more you write, the better you are as a 
 **Consider a writing group**—For some/many researchers, writing groups have been helpful in helping provide feedback and holding them accountable. 
 
 **Do your creating and editing sequentially, not simultaneously.** The most common approach to writing involves producing a sentence, fiddling with it until it looks OK, going on to the next sentence, revising both sentences because the first one no longer works, and three hours later maybe you’ve got a paragraph done. If that’s how you write, you can bet that the manuscript will either be unfinished by the deadline, pushed out before it’s ready, or never finished at all. Instead, just sit down at your computer and free-write, ignoring those voices in your head telling you what trash you’re producing. Before long, you’ll have a significant body of work that’s much better than you thought while you were writing it—just write. Then do the editing and polishing.
-
-**Spend twice as much time editing as you spend writing.** Write without trying to edit, and then allocate a block of time to review your writing, and critically edit it. Read a sentence, now remove it and see if it makes sense without the sentence, if it does, you probably don’t need that sentence.
 
 **Write in a distracting free environment,** both physically and virtually. Make your writing app full screen and disable notifications. Write in a quiet place when possible. Use tools such as [Grammarly](https://www.grammarly.com/) when writing, even if you are a native speaker. **Grammar tools catch common mistakes and help you focus on the creative writing part.**
 
@@ -96,8 +103,13 @@ Answering the why:
 
 - Why you will provide services in a particular area?
 
-## Articles on writing and editing
-[Bird by Bird](https://www.goodreads.com/book/show/12543.Bird_by_Bird)
+## Recommended reading
+
+[Writing simply](https://web.archive.org/web/20211019053954/http://paulgraham.com/simply.html)
+
+[Write like you talk](https://web.archive.org/web/20211020010922/http://www.paulgraham.com/talk.html)
+
+[Writing, Briefly](https://web.archive.org/web/20210908084121/http://paulgraham.com/writing44.html)
 
 [E. B. White's drafts](https://writingcenter.fas.harvard.edu/pages/revising-draft)
 
