@@ -86,7 +86,7 @@ Avoid ending with a digression or an unimportant detail.
 
 2. Articulate the action of every clause or sentence in its verb.
 
-3. Always use the active coice. The active voice is usually more direct and vigorous than the passive.
+3. Always use the active voice. The active voice is usually more direct and vigorous than the passive.
 
 **The craft of writing effectively:** [https://www.youtube.com/watch?v=vtIzMaLkCaM](https://www.youtube.com/watch?v=vtIzMaLkCaM)
 
