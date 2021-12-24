@@ -39,7 +39,7 @@ Give Krishna at least two weeks’ notice (preferably more) to do something with
 
 If you want feedback on research and teaching statements, or other work that requires multiple back-and-forth interactions between you and Krishna before a hard deadline, give him as much time as you can; at the very least three weeks (e.g., manuscripts).
 
-For manuscript submissions and revisions (i.e., which either have no deadline at all or only a weak deadline), send drafts to Krishna as soon as you have them, and bug her to give you feedback if he hasn’t responded in two weeks – papers are important!
+For manuscript submissions and revisions (i.e., which either have no deadline at all or only a weak deadline), send drafts to Krishna as soon as you have them, and bug him to give you feedback if he hasn’t responded in two weeks – papers are important!
 
 
 ## Presentations
