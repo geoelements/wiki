@@ -57,6 +57,36 @@ All of the above, and you will also be expected to...
 * Prioritize time for research. Coursework and TAing are important, but ultimately your research gets you your PhD and prepares you for the next stage of your career.
 * Write as frequently as possible. Writing is a way to think, write everything from methods to your insights. Ask for feedback frequently.
 
+### Time-sensitive commitments
+#### Daily
+* Work on most important task for the day (planned ahead).
+* Update individual tasks on Asana.
+* Track how much time you spend on each task and ensure you have spend quality productive time on your project.
+* Write a short summary of the task you have completed at the end of the day.
+* Plan the most important task you want to complete the next day. This way you start the day working on the most important task, rather than spending time on planning.
+
+#### Weekly
+* Attend our weekly group lunch meetings.
+* Update your project status on Slack in #status-updates channel.
+* Update the Asana project status at the end of the week (Fri/Sun).
+* At the end of the week, review last week and plan tasks and goals for next week.
+* Meet with Krishna at least once a week.
+
+#### Monthly/Quarterly
+* At least once a quarter meet with Krishna to have a Mentor-Mentee 360. You can discuss any topic of your choice with Krishna.
+* Plan the papers you will be writing this quarter.
+
+#### Semester
+* Discuss with Krishna and other graduate students what courses to take this semester. Register for the course.
+* Check if your funding has been applied, if not let Krishna know.
+* Complete any HR forms related to being a UT student.
+
+#### During your PhD
+* **Y1:** Complete your Qualifying exam at the end of Y1. Apply for candidacy and have a rough idea of your dissertation project.
+* **Y2:** Aim to write at least 1 Journal Paper (or 2 conference papers) at the end of Y2. Select a comprehenisve exam committee.
+* **Y3:** At the end of Y3, you should have at least 2 journal papers. Mid-Y3 - organize your PhD comprehensive exam.
+* **Y4:** Have at least 3 journal papers -> Submit your PhD thesis as a collection of journal articles -> Defend -> Graduate! (congratulations).
+
 ## Undergraduate Students
 
 All of the above, and you will also be expected to...
