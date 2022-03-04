@@ -18,10 +18,10 @@ The follow describes more a philosophy of our group rather than an objective tes
 * Have strong technical knowledge.
 * Have the willingness to try new things and not be afraid to fail.
 * Have unwavering dedication to solve fundamental research problems.
-* Be honesst and sincere. 
+* Be honest and sincere. 
 * Have the motivation to learn new areas.
 * Have the ability to work in a team and support one another.
-* You don't need to be have strong programming skills, but we expect you to demonstrate the ability to think crtically and have a strong mathematical background.
+* You don't need to be have strong programming skills, but we expect you to demonstrate the ability to think critically and have a strong mathematical background.
 * You are willing to learn and grow. 
 
 Ph.D. is not the goal, it's a process, we are looking for researchers who are willing to work hard and grow during this time. We would always pick a sincere, hardworking and a good student over a superstar who is not willing to change their ways or learn.
@@ -31,7 +31,7 @@ Ph.D. is not the goal, it's a process, we are looking for researchers who are wi
 Send Krishna an email! He is always happy to hear from prospective students. In fact, He highly encourages prospective students to email him before applying. That way, you can find out if He will be accepting students that year and whether your interests and experiences fit with him research group's current goals. Just drop him a note with a few sentences about your current position and interests, and attach your CV. Make sure to let him know your area of interest (don't worry if you don't yet have a specific interest).
 
 > __How to email Krishna:__ 
-If you are interested in applying send an email with the following subject: **Geoelements <Favorite food:>**. For e.g., if you like `pizza`, your email subject should read `Geoelements pizza:`. This helps me in knowing that you have read our wiki (or at least this paragraph), and shows your dedication to join our group. If you follow this guideline, I'll gurantee you an email response (which may take up to a week sometimes). Do NOT expect to hear back if you don't follow the email subject guideline.
+If you are interested in applying send an email with the following subject: **Geoelements <Favorite soil type:>**. For e.g., if you like `sand`, your email subject should read `Geoelements sand:`. This helps me in knowing that you have read our wiki (or at least this paragraph), and shows your dedication to join our group. If you follow this guideline, I'll gurantee you an email response (which may take up to a week sometimes). Do NOT expect to hear back if you don't follow the email subject guideline.
 
 ## How do I make my research statement as strong as possible?
 
