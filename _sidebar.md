@@ -12,4 +12,5 @@
     * [Effective communication](effective-communication.md)
     * [Feedback guidelines](feedback-guidelines.md)
 * [Invest in your writing](writing.md)
+* [Tips for writing](10-tips-writing.md)
 * [Guidelines for focused work](focused-work.md)
