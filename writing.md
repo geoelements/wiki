@@ -114,3 +114,7 @@ Answering the why:
 [E. B. White's drafts](https://web.archive.org/web/20210814124306/https://writingcenter.fas.harvard.edu/pages/revising-draft)
 
 [E. B White's once more to the lake](https://web.archive.org/web/20201124043322/https://www.thoughtco.com/e-b-whites-drafts-once-more-1692830)
+
+[Write Think Learn](http://web.archive.org/web/20210426023532/http://www.covingtoninnovations.com/mc/WriteThinkLearn.pdf)
+
+[Scientific Writing = Thinking in Words](https://www.goodreads.com/book/show/11804959-scientific-writing-thinking-in-words-op)
