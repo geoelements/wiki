@@ -103,6 +103,21 @@ Answering the why:
 
 - Why you will provide services in a particular area?
 
+## Reasoning checklist
+**What?**
+1. What is your problem (question/topic)?
+
+2. How do you plan to investigate the problem?
+
+3. What is your solution (conclusion, thesis, recommendation)?
+
+**Why?**
+1. What reasons (objectives, motives, justifications) support your solutions to the problem?
+
+2. What evidence (facts, data, findings) support your solution?
+
+3. What arguments (principles, values, explanations) support your solution?
+
 ## Recommended reading
 
 [Writing simply](https://web.archive.org/web/20211019053954/http://paulgraham.com/simply.html)
