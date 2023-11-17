@@ -73,13 +73,13 @@ All of the above, and you will also be expected to...
 * Meet with Krishna at least once a week.
 
 #### Monthly/Quarterly
-* At least once a quarter meet with Krishna to have a Mentor-Mentee 360. You can discuss any topic of your choice with Krishna.
-* Plan the papers you will be writing this quarter.
+* Plan the papers you will be writing this quarter. 
 
 #### Semester
 * Discuss with Krishna and other graduate students what courses to take this semester. Register for the course.
 * Check if your funding has been applied, if not let Krishna know.
 * Complete any HR forms related to being a UT student.
+* At least once a semester meet with Krishna to have a Mentor-Mentee 360. You can discuss any topic of your choice with Krishna.
 
 #### During your PhD
 * **Y1:** Complete your Qualifying exam at the end of Y1. Apply for candidacy and have a rough idea of your dissertation project.
