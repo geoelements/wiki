@@ -31,11 +31,32 @@ Ph.D. is not the goal, it's a process, we are looking for researchers who are wi
 Send Krishna an email! He is always happy to hear from prospective students. In fact, He highly encourages prospective students to email him before applying. That way, you can find out if He will be accepting students that year and whether your interests and experiences fit with him research group's current goals. Just drop him a note with a few sentences about your current position and interests, and attach your CV. Make sure to let him know your area of interest (don't worry if you don't yet have a specific interest).
 
 > __How to email Krishna:__ 
-If you are interested in applying, send an email with the following subject: **Geoelements + Favorite soil type:**. For e.g., if you like `sand`, your email subject should read `Geoelements sand:`. This helps me in knowing that you have read our wiki (or at least this paragraph), and shows your dedication to join our group. If you follow this guideline, I'll gurantee you an email response (which may take up to a week sometimes). Do NOT expect to hear back if you don't address the three sections in your email:
-(1) Specify your interest: MS/PhD or PhD
-(2) One-page research statement on what research area you would like to explore and why: [https://www.geoelements.org/research/](https://www.geoelements.org/research/)
-(3) Explain your interest in joining our group and What makes you an ideal candidate?
 
+If you are interested in applying, send an email with the following subject: **Geoelements + Favorite soil type:**. For e.g., if you like `sand`, your email subject should read `Geoelements sand:`. This helps me in knowing that you have read our wiki (or at least this paragraph), and shows your dedication to join our group. If you follow this guideline, I'll gurantee you an email response (which may take up to a week sometimes). Do NOT expect to hear back if you don't address the three sections in your email:
+
+1. Specify your interest: MS/PhD or PhD
+2. One-page research statement as a PDF on what research area you would like to explore and why: [https://www.geoelements.org/research/](https://www.geoelements.org/research/). See details below on what to include. 
+3. Explain your interest and what makes you an ideal candidate (your fit in the group)?
+
+### How to write an effective research statement (no more than 1 page):
+
+Your research statement should only be one page and have the following sections: 
+
+1. **Problem Statement**:
+    - Clearly define the specific geomechanics/robotics/AI challenge or question your research intends to address.
+    - Emphasize the relevance of this problem in the context of current geomechanics research.
+    - Highlight any gaps in existing research that your study aims to fill.
+
+1. **Methodology**:
+    - Outline the simulation techniques, AI algorithms and robotic applications you'll use in your research.
+    - Explain how these methods are suited to address the problem statement effectively.
+
+1. **Expected Results/Outputs**:
+    - Mention how these results could advance understanding or applications in geoelements.
+
+1. **Impact**:
+    - Discuss how the findings could contribute to technological advancements in simulations, AI and robotics.
+    
 ## How do I make my research statement as strong as possible?
 
 Krishna is interested in seeing your enthusiasm and creative thinking about areas his research group studies. If you have particular questions you are keen to explore during your PhD, feel free to tell him a few of them. Past research experience is great, but it does not substitute for creative and critical thinking, willingness to learn, and knowledge of the general field. Likewise, prior programming experience is a strength, but not essential. We love to hear from students who have passion for research, and have thought about what they want to study. No need to have highly detailed plans in place — Krishna would just like to hear about some general areas of inquiry that you are curious to study.
