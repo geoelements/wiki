@@ -2,6 +2,7 @@
 
 ## Bibliography and Reference Management (Mendeley/Zotero)
 A lot of research gets published every day, and it can be hard to keep up. Use an RSS feed (e.g., [Feedly](https://feedly.com/i/welcome)) or subscribe to journal table of contents to keep up on the latest work. We mainly use [Google Scholar](https://scholar.google.com/) to find relevant articles, to store useful articles you will use a reference management system like [Mendeley](https://www.mendeley.com/) or [Zotero](https://www.zotero.org/). 
+
 Reference or citation or bibliographic management software is tool for researchers to record and utilize bibliographic citations (references). [ConnectedPapers](https://www.connectedpapers.com/) is a great tool to find other related papers. Set-up a Google Scholar Email Alert on keywords related to your research to get notified when there is a new paper in the field. If you are outside of the University network and would like to get access, you may use EZ Proxy on [Firefox](https://addons.mozilla.org/en-US/firefox/addon/ezproxy-redirect-foxified/) or [Chrome](https://chrome.google.com/webstore/detail/ezproxy-redirect/gfhnhcbpnnnlefhobdnmhenofhfnnfhi?hl=en) to access PayWalled papers. Alternatively, tools such as [Unpaywall](https://unpaywall.org/) and [PaperPanda](https://paperpanda.app/) searches through publicly available archives for the paper. 
 
 ## Chat & Communication (Slack)
@@ -10,6 +11,9 @@ Reference or citation or bibliographic management software is tool for researche
 Try to keep each channel on topic, so that people can subscribe only to the channels that concern them. For messages to one person or a small group, use direct messages. If you have to send attachments (e.g., papers) or send messages that include out-of-lab recipients, use e-mail. If it’s an emergency and Krishna isn’t responding on Slack, e-mail him or call him if it is urgent.
 
 Full-time lab members should install Slack on their computers. Do not install it on your phone, we do not expect everyone to be on Slack all the time. Treat Slack like emails as asynchronous communication system.
+
+## Computing Resources
+We will be using Texas Advanced Computing Center [TACC](https://tacc.utexas.edu/) resources to run large-scale simulations and AI/ML training. Talk to the PI for allocation. We will also provide you with a personal computer of your choice.
 
 ## Preprint (arXiv)
 [arXiv](https://arxiv.org/a/kumar_3.html) is pre-print server to host versions of our manuscripts that we submit to journals and conferences. It is a way to promote Open Science and you are required to upload your manuscripts to arXiv and share the paper password with Krishna. 
@@ -41,9 +45,7 @@ The lab has a shared UT Box account that is used to store experiment data, so th
 Currently, the best option for sharing large datasets are the [UT Dataverse](https://dataverse.tdl.org/dataverse/utexas) or [DesignSafe CyberInfrastructure](https://designsafe-ci.org) for Natural Hazard Engineering datasets or for smaller datasets [Open Science Framework](https://osf.io). 
 
 ## Video conferencing (Whereby/Zoom)
-Our video conferencing facility is accessible at [Geoelements Whereby](https://geoelements.whereby.com/meet). Use Firefox/Chrome browser for the best experience. 
-
-Alternatively, we also use the [UT Zoom](https://utexas.zoom.us) account to have group calls. 
+Our video conferencing facility is the [UT Zoom](https://utexas.zoom.us) account to have group calls. 
 
 ## Wiki
 This Geoelements [wiki](https://github.com/geoelements/wiki) has all of the information you need to get started, including tasks that need to be done upon arrival, day-to-day housekeeping duties, forms and flyers, programming and modeling tips, information about accessing the high-performance computing clusters. Edit it when you obtain information that will be useful for others to know! You can also create wikis of your research documentation. Contact Krishna for further information.
