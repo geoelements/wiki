@@ -1,4 +1,4 @@
-# Expectations and Responsibilities
+# Roles and Responsibilities
 
 ## Everyone
 

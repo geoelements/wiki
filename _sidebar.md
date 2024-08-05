@@ -2,9 +2,9 @@
 
 * [Prospective students](prospective-students.md)
 * [Getting started](getting-started.md)
-* [Expectations and Responsibilities](expectations.md)
+* [Roles and responsibilities](roles-responsibilities.md)
 * [Research expectations](research-expectations.md)
-* [Code of Conduct](code-conduct.md)
+* [Code of conduct](code-conduct.md)
 * [Resources](resources.md)
 * [Policies](policies.md)
 * [Meetings and communications](meetings.md)
