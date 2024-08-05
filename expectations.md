@@ -45,6 +45,18 @@ All of the above, and I promise to also...
 * Help you prepare for the next step of your career, whether it’s a post-doc, a faculty job, or a job outside of academia.
 * Care for your emotional and physical well-being, and prioritize that above all else.
 
+## Postdoctoral Researchers
+All of the above, and you will also be expected to...
+
+* Develop and lead your own research projects, aligned with the group's goals and your career objectives.
+* Publish high-quality papers in peer-reviewed journals and represent the lab professionally at academic events and contribute to the group's overall research output and reputation.
+* Actively pursue funding opportunities, including writing grant proposals and fellowship applications.
+* Mentor graduate and undergraduate students, providing guidance on research projects and career development.
+* Contribute to the intellectual atmosphere of the lab by participating in discussions, suggesting new research directions, and staying current with literature.
+* Seek opportunities for professional development and work towards becoming an independent researcher.
+* Collaborate with other lab members and researchers outside the lab to foster interdisciplinary research.
+
+
 ## Graduate Students
 
 All of the above, and you will also be expected to...
