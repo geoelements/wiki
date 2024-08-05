@@ -7,7 +7,7 @@ You have made your first step by joining our research group on extreme scale geo
 
 * You may use your own laptop or Krishna would be happy to buy you a new laptop.
 
-* We mainly work using Linux OS, so I recommend installing [Fedora OS](https://getfedora.org/) on your machine. At a minimum install Windows Subsystem on Linux (WSL2) and [run Ubuntu](https://docs.microsoft.com/en-us/windows/wsl/install-win10).
+* We mainly work using Unix/Linux OS, so I recommend installing [Fedora OS](https://getfedora.org/) on your machine or using a Mac.
 
 * Sign-up to [DesignSafe-CI](https://designsafe-ci.org/register) and share your username with Krishna so he can add you to relevant projects. DesignSafe is a CyberInfrastructure for Natural Hazard Engineering and offers access to some of the best supercomputing resources at the [Texas Advanced Computing Center - TACC](https://tacc.utexas.edu).
 
@@ -17,11 +17,13 @@ You have made your first step by joining our research group on extreme scale geo
 
     - [Unix Shell](https://swcarpentry.github.io/shell-novice/)
 
-    - [Git for Version control (2 hours)](https://jpvantassel.github.io/git-course/#/)
+    - [Git for Version control](https://git-scm.com/book/en/v2)
 
-    - [Python basics](https://github.com/kks32-courses/ce311k)
+    - [Python basics](https://kks32-courses.github.io/ce311k/README.html)
 
     - [C++ Core Guidelines](https://isocpp.github.io/CppCoreGuidelines/CppCoreGuidelines) and [C++ Large-Scale programming](https://github.com/kks32/cpp-software-development)
+
+    - [PyTorch](https://pytorch.org/tutorials/beginner/basics/intro.html) and [JAX](https://pytorch.org/tutorials/beginner/basics/intro.html)
 
 * We use slack to communicate within the research group for software development.
 

@@ -35,5 +35,5 @@ At the start of a new project, the student or post-doc taking on the lead role c
 
 ### Old projects
 
-If a student or post-doc collects a dataset but does not completely analyze it or write it up within 3 years after the end of study, Krishna will re-assign the project (if appropriate) to another person to expedite publication. If a student or post-doc voluntarily relinquishes their rights to the project prior to the 3-year window, Krishna will also re-assign the project to another individual. This policy is here to prevent data from remaining unpublished, but is meant to give priority to the person who collected the data initially.
+If a student or post-doc collects a dataset but does not completely analyze it or write it up within 1 year after the end of study, Krishna will re-assign the project (if appropriate) to another person to expedite publication. If a student or post-doc voluntarily relinquishes their rights to the project prior to the 1-year window, Krishna will also re-assign the project to another individual. This policy is here to prevent data from remaining unpublished, but is meant to give priority to the person who collected the data initially.
 

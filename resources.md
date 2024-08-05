@@ -44,7 +44,7 @@ The lab has a shared UT Box account that is used to store experiment data, so th
 
 Currently, the best option for sharing large datasets are the [UT Dataverse](https://dataverse.tdl.org/dataverse/utexas) or [DesignSafe CyberInfrastructure](https://designsafe-ci.org) for Natural Hazard Engineering datasets or for smaller datasets [Open Science Framework](https://osf.io). 
 
-## Video conferencing (Whereby/Zoom)
+## Video conferencing
 Our video conferencing facility is the [UT Zoom](https://utexas.zoom.us) account to have group calls. 
 
 ## Wiki
