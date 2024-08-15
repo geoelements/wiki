@@ -95,7 +95,6 @@
 > - [Python and Numerical Methods](https://numericalmethodssullivan.github.io/index.html)
 > - [Python basics](https://kks32-courses.github.io/ce311k/README.html)
 > - [C++ Core Guidelines](https://isocpp.github.io/CppCoreGuidelines/CppCoreGuidelines) and [C++ Large-Scale programming](https://github.com/kks32/cpp-software-development)
-> - [PyTorch](https://pytorch.org/tutorials/beginner/basics/intro.html) and [JAX](https://pytorch.org/tutorials/beginner/basics/intro.html)
 
 ### Core Programming Languages
 - Python for scientific computing
@@ -123,10 +122,6 @@
 - Pandas for data manipulation and analysis
 - Matplotlib and Seaborn for data visualization
 
-### Machine Learning and AI
-- Scikit-learn for machine learning
-- PyTorch or Jax for deep learning
-
 ### Software Engineering Practices
 - Code organization and modularity
 - Documentation (inline comments, docstrings, ReadMe files)
@@ -135,6 +130,36 @@
 
 ### Database Management
 - SQLite basics
+
+## Machine Learning
+> **References**
+> - [Deep Learning](https://www.deeplearningbook.org/)
+> - [Scientific Machine Learning](https://kks32-courses.github.io/sciml/README.html)
+> - [PyTorch](https://pytorch.org/tutorials/beginner/basics/intro.html)
+> - [JAX](https://pytorch.org/tutorials/beginner/basics/intro.html)
+
+### Applied Math and Machine Learning Basics
+- Linear Algebra
+- Probability and Information Theory
+- Numerical Computation
+- Machine Learning Basics
+
+### Deep Learning
+- Deep Feedforward Networks
+- Regularization for Deep Learning
+- Optimization for Training Deep Models
+- Convolutional Networks
+- Autoencoders
+- Structured Probabilistic Models for Deep Learning
+- Monte Carlo Methods
+- Approximate Inference
+- Deep Generative Models
+
+### Scientific Machine Learning
+- Physics Informed Neural Networks
+- Operator Learning (DeepONet)
+- Automatic Differentiation
+- Graph Neural Networks
 
 ## Parallel Computing and High-Performance Computing (HPC)
 > **References:**
@@ -205,6 +230,8 @@
 - 2D and 3D plotting techniques
 - Interactive visualization tools
 - Large-scale data visualization
+
+
 
 ## Research Skills and Tools
 
