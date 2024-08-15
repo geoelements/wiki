@@ -1,4 +1,4 @@
-# Essential Skills for Computational Researchers: A Comprehensive Guide
+# Essential Skills for Computational Researchers
 
 In the rapidly evolving landscape of computational research, a diverse set of skills is crucial for success. This guide outlines the fundamental competencies that every computational researcher should strive to master. These skills are essential for several reasons:
 
