@@ -2,6 +2,7 @@
 
 * [Prospective students](prospective-students.md)
 * [Getting started](getting-started.md)
+    * [Basic Research Skills](basics.md)
 * [Roles and responsibilities](roles-responsibilities.md)
 * [Research expectations](research-expectations.md)
 * [Code of conduct](code-conduct.md)
