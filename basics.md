@@ -19,6 +19,7 @@ By developing proficiency in the following areas, computational researchers can 
 
 ## Linux Skills
 > **References:**
+> - [Unix Command Line](https://web.archive.org/web/20101225121357/http://www-uxsup.csx.cam.ac.uk/courses/UnixCLI/notes.pdf)
 > - [Unix tutorial for beginners](http://www.ee.surrey.ac.uk/Teaching/Unix/)
 > - [Unix Shell](https://swcarpentry.github.io/shell-novice/)
 
