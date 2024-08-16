@@ -1,5 +1,7 @@
 # Research Expectations
 
+> ```What’s the most important problem in your field and why aren’t you working on it?``` - Richard Hamming
+
 ## Our Mission: Pioneering Transformative Research
 
 Our goal is to conduct research that fundamentally reshapes the fields of AI, machine learning, numerical simulations, and robotics. We're not here to incrementally improve existing methods; we're here to revolutionize how these technologies are conceived, developed, and applied.
@@ -39,6 +41,23 @@ Remember, we're not here to publish papers for the sake of publishing. We're her
 As you embark on your research journey with us, constantly ask yourself: "Am I working on something that could fundamentally change how we approach AI, ML, numerical simulations, or robotics?" If the answer is yes, you're on the right track. If it's no, it's time to aim higher.
 
 Let's push the boundaries of what's possible, challenge our own limitations, and conduct research that will be remembered not just this year, but for decades to come.
+
+## Famous Quotes on Research
+
+Richard Hamming on Research: 
+>  
+    "If you read all the time what other people have done you will think the way they thought. If you want to think new thoughts that are different, then do what a lot of creative people do - get the problem reasonably clear and then refuse to look at any answers until you've thought the problem through carefully how you would do it, how you could slightly change the problem to be the correct one. You need to keep up more to find out what the problems are than to read to find the solutions. The reading is necessary to know what is going on and what is possible. But reading to get the solutions does not seem to be the way to do great research. So I'll give you two answers. You read; but it is not the amount, it is the way you read that counts."
+
+
+E. W. Dijkstra
+
+> 
+    “Raise your quality standards as high as you can live with, avoid wasting your time on routine problems, and always try to work as closely as possible at the boundary of your abilities. Do this, because it is the only way of discovering how that boundary should be moved forward.”
+
+    “We all like our work to be socially relevant and scientifically sound. If we can find a topic satisfying both desires, we are lucky; if the two targets are in conflict with each other, let the requirement of scientific soundness prevail.”
+    
+    “Never tackle a problem of which you can be pretty sure that (now or in the near future) it will be tackled by others who are, in relation to that problem, at least as competent and well-equipped as you.”
+
 
 ## More Reading
 * [Fei Fei Li's blog](http://web.archive.org/web/20240521062052/http://qinhongwei.com/2015/03/25/Fei-fei-Li-s-advice/)

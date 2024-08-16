@@ -114,6 +114,7 @@ By developing proficiency in the following areas, computational researchers can 
 > - [Python and Numerical Methods](https://numericalmethodssullivan.github.io/index.html)
 > - [Python basics](https://kks32-courses.github.io/ce311k/README.html)
 > - [C++ Core Guidelines](https://isocpp.github.io/CppCoreGuidelines/CppCoreGuidelines) and [C++ Large-Scale programming](https://github.com/kks32/cpp-software-development)
+> - [Docker/Containerization](https://www.docker.com/101-tutorial/)
 
 ### Core Programming Languages
 - Python for scientific computing
@@ -146,9 +147,19 @@ By developing proficiency in the following areas, computational researchers can 
 - Documentation (inline comments, docstrings, ReadMe files)
 - Unit testing and test-driven development
 - Debugging techniques and tools
+- Python Package Management (Conda/Pip)
 
 ### Database Management
 - SQLite basics
+- Data organization and storage best practices
+- Version control for datasets
+- Data sharing and collaboration platforms
+
+### Reproducible Research
+- Jupyter notebooks for interactive computing
+- Reproducible workflow tools (e.g., DVC)
+- Containerization (e.g., Docker)
+- CI/CD for unit testing
 
 ## Machine Learning
 > **References**
@@ -255,17 +266,8 @@ By developing proficiency in the following areas, computational researchers can 
 
 ## Research Skills and Tools
 
-### Scientific Writing
+### Scientific Thinking and Writing
+- Knowledge search (e.g., Google Scholar, ConnectedPapers)
 - [LaTeX for technical writing](https://www.overleaf.com/learn/latex/Tutorials) and [Writing your paper in LaTeX](https://github.com/kks32-courses/latex)
 - Markdown for documentation
 - Reference management tools (e.g., Zotero, Mendeley)
-- Knowledge search (e.g., Google Scholar, ConnectedPapers)
-
-### Data Management
-- Data organization and storage best practices
-- Version control for datasets
-- Data sharing and collaboration platforms
-
-### Reproducible Research
-- Jupyter notebooks for interactive computing
-- Reproducible workflow tools (e.g., DVC)
