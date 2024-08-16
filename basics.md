@@ -64,6 +64,7 @@ By developing proficiency in the following areas, computational researchers can 
 
 ## Git and Version Control
 > **References:**
+> [Git for beginners](https://www.atlassian.com/git/tutorials/what-is-version-control)
 > [Git for Version control](https://git-scm.com/book/en/v2)
 
 ### Basic Git Operations
@@ -152,6 +153,7 @@ By developing proficiency in the following areas, computational researchers can 
 > **References**
 > - [Deep Learning](https://www.deeplearningbook.org/)
 > - [Scientific Machine Learning](https://kks32-courses.github.io/sciml/README.html)
+> - [Understanding Deep Learning](https://udlbook.github.io/udlbook/)
 > - [PyTorch](https://pytorch.org/tutorials/beginner/basics/intro.html)
 > - [JAX](https://pytorch.org/tutorials/beginner/basics/intro.html)
 
