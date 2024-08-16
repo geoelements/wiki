@@ -74,3 +74,8 @@ It’s easy to find your calendar full of meetings that might not help you achie
 - Use bullet points to write and reply to emails;
 - Put the most important stuff at the top; and
 - Use "CC" and "Reply All" sparingly
+
+
+## Giving a talk at a conference
+
+Read [A Long Guide to Giving a Short Academic Talk](https://benjaminnoble.org/blog/short-talk)
