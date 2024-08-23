@@ -34,9 +34,14 @@ Send Krishna an email! He is always happy to hear from prospective students. In 
 
 If you are interested in applying, send an email with the following subject: **Geoelements + Favorite soil type:**. For e.g., if you like `sand`, your email subject should read `Geoelements sand:`. This helps me in knowing that you have read our wiki (or at least this paragraph), and shows your dedication to join our group. If you follow this guideline, I'll gurantee you an email response (which may take up to a week sometimes). Do NOT expect to hear back if you don't address the three sections in your email:
 
-1. Specify your interest: MS/PhD or PhD
+1. Briefly introduce yourself (name, current institution) and Specify your interest: MS/PhD or PhD
 2. One-page research statement as a PDF on what research area you would like to explore and why: [https://www.geoelements.org/research/](https://www.geoelements.org/research/). See details below on what to include. 
 3. Explain your interest and what makes you an ideal candidate (your fit in the group)?
+4. Include your GPA from undergraduate and MS studies (if applicable)
+5. Mention any relevant test scores (GRE, English language tests like TOEFL or IELTS) — This information is optional and will not be used in the decision making process.
+6. Attach your CV or resume
+7. Keep your email concise and well-structured (aim for 1-2 paragraphs)
+8. Proofread your email carefully before sending 
 
 ### How to write an effective research statement (no more than 1 page):
 
