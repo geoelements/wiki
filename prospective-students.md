@@ -10,7 +10,7 @@ Our research group will be a good fit for you if (1) you find our research excit
 
 To find out more, you are completely free to ask past and current Geoelements members about their experiences in the research group, and ask as many questions as you'd like during your interview or before you apply.
 
-Also check out the University of Texas Austin Geotech website to learn more about the department, requirements in the PhD program, and details about the application. In the Geotech group the model is that students are admitted to work in individual research groups (i.e., no rotations). 
+Also check out the University of Texas Austin and the Oden Institute website to learn more about the department, requirements in the PhD program, and details about the application. At UT Engineering students are admitted to work in individual research groups (i.e., no rotations). 
 
 ## What qualities make me a good fit for Geoelements research group?
 
@@ -32,7 +32,7 @@ Send Krishna an email! He is always happy to hear from prospective students. In 
 
 > __How to email Krishna:__ 
 
-If you are interested in applying, send an email with the following subject: **Geoelements + Favorite soil type:**. For e.g., if you like `sand`, your email subject should read `Geoelements sand:`. This helps me in knowing that you have read our wiki (or at least this paragraph), and shows your dedication to join our group. If you follow this guideline, I'll gurantee you an email response (which may take up to a week sometimes). Do NOT expect to hear back if you don't address the three sections in your email:
+If you are interested in applying, send an email with the following subject: **Geoelements + research area:**. For e.g., if you like to work on `GNNs`, your email subject should read `Geoelements GNN:`. This helps me in knowing that you have read our wiki (or at least this paragraph), and shows your dedication to join our group. If you follow this guideline, I'll gurantee you an email response (which may take up to a week sometimes). Do NOT expect to hear back if you don't address the three sections in your email:
 
 1. Briefly introduce yourself (name, current institution) and Specify your interest: MS/PhD or PhD
 2. One-page research statement as a PDF on what research area you would like to explore and why: [https://www.geoelements.org/research/](https://www.geoelements.org/research/). See details below on what to include. 
@@ -48,27 +48,27 @@ If you are interested in applying, send an email with the following subject: **G
 Your research statement should only be one page and have the following sections: 
 
 1. **Problem Statement**:
-    - Clearly define the specific geomechanics/robotics/AI challenge or question your research intends to address.
-    - Emphasize the relevance of this problem in the context of current geomechanics research.
+    - Clearly define the specific AI, robotics, or control challenge you intend to address.
+    - Emphasize the relevance of this problem in the context of current research in Gaussian Splatting, GNNs, MPM, or RL for robotics.
     - Highlight any gaps in existing research that your study aims to fill.
 
 1. **Methodology**:
-    - Outline the simulation techniques, AI algorithms and robotic applications you'll use in your research.
-    - Explain how these methods are suited to address the problem statement effectively.
+    - Outline the specific techniques you'll use (e.g., Gaussian Splatting for 3D reconstruction, GNNs for physics modeling, MPM for simulation, RL for control).
+    - Explain how these AI and numerical methods are suited to address the problem statement effectively.
 
 1. **Expected Results/Outputs**:
-    - Mention how these results could advance understanding or applications in geoelements.
+    - Mention how these results could advance robotics, autonomous navigation, or control systems.
 
 1. **Impact**:
-    - Discuss how the findings could contribute to technological advancements in simulations, AI and robotics.
+    - Discuss how the findings could contribute to advancements in AI-driven robotics, real-time control, or autonomous systems.
     
 ## How do I make my research statement as strong as possible?
 
-Krishna is interested in seeing your enthusiasm and creative thinking about areas his research group studies. If you have particular questions you are keen to explore during your PhD, feel free to tell him a few of them. Past research experience is great, but it does not substitute for creative and critical thinking, willingness to learn, and knowledge of the general field. Likewise, prior programming experience is a strength, but not essential. We love to hear from students who have passion for research, and have thought about what they want to study. No need to have highly detailed plans in place — Krishna would just like to hear about some general areas of inquiry that you are curious to study.
+Krishna is interested in seeing your enthusiasm and creative thinking about AI and numerical methods for robotics and control. If you have particular questions about Gaussian Splatting, GNNs, MPM, or RL applications that you're keen to explore during your PhD, feel free to share them. Past research experience is great, but it does not substitute for creative and critical thinking, willingness to learn, and knowledge of the general field. Prior programming experience (especially in Python, PyTorch, or C++) is desirable. We love to hear from students who have passion for research at the intersection of AI and robotics, and have thought about what they want to study. No need to have highly detailed plans in place — Krishna would just like to hear about some general areas of inquiry that you are curious to study.
 
 Krishna would also like to hear about your past research experience, if any. Do not simply list what is already on your CV, though. Tell him a little bit about why you became interested in that research question, how you tackled that question, what you learned, and what you might want to do differently in the future. Furthermore, how did your past experiences inform your current interests?
 
-You should also have a section in your research statement describing what attracted you to University of Texas at Austin and to Krishna's research group in particular. What would you like to learn in the Geoelements and what do you hope to contribute? What is special about the Geoelements and/or UT? If you are interested in other research groups too, that's great — feel free to mention them too! But make clear which research group(s) are those of primary interest and which you would like to learn from or cooperate. It's a good idea to list at least one other research group in Geotech, because at least two faculty need to be interested in working with you in order for you to be accepted into the program.
+You should also have a section in your research statement describing what attracted you to University of Texas at Austin and to Krishna's research group in particular. What would you like to learn in the Geoelements and what do you hope to contribute? What is special about the Geoelements and/or UT? If you are interested in other research groups too, that's great — feel free to mention them too! But make clear which research group(s) are those of primary interest and which you would like to learn from or cooperate. 
 
 ## How big of a deal are my GREs and grades?
 

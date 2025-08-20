@@ -14,7 +14,7 @@ Science is hard. But it’s also fun. In Geoelements, we want to make sure that 
 * Respect your fellow teammates. Respect their strengths and weaknesses, respect their desire for quiet if they need it, and for support and a kind ear when they need that. Respect their culture, their religion, their beliefs, their sexual orientation.
 * If you’re struggling, tell someone (feel free to tell Krishna!). Your health and happiness come first. The group looks out for the well-being of all its members. We are here to help. It’s ok to go through hard patches (we all do), but you shouldn’t feel shy about asking for help or just venting.
 * If there is any tension or hostility in the group, something has to be done about it immediately. We can’t thrive in an environment we aren’t comfortable in, and disrespect or rudeness will not be tolerated in the lab. If you don’t feel comfortable confronting the person in question, tell Krishna. In any case, tell Krishna.
-* If you have a problem with Krishna and are comfortable telling him about it, do! If you aren’t comfortable, then tell a geotech professor (for smaller issues) or the department chair (for more serious issues).
+* If you have a problem with Krishna and are comfortable telling him about it, do! If you aren’t comfortable, then talk to your academic advisor for smaller issues or the department chair (for more serious issues).
 * Stay up to date on the latest research, by using RSS feeds, Google Scholar Alerts and/or getting journal table of contents. 
 * Remember the lab philosophy: “We like to do good science and have fun”. Have a life outside of the research is important, take care of your mental and physical health, and don’t ever feel bad for taking time off work.
 

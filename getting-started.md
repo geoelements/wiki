@@ -1,5 +1,5 @@
 # Getting Started
-You have made your first step by joining our research group on extreme scale geomecahnics. Congratulations! We look forward to working with you and have a lot of fun. We at Geoelements aim to promote open research and create a friendly team of researchers working in the area of computational geomechanics.
+You have made your first step by joining our research group on AI and numerical methods for robotics and control. Congratulations! We look forward to working with you and have a lot of fun. We at Geoelements aim to promote open research and create a friendly team of researchers working at the intersection of AI, numerical simulation, and robotic systems.
 
 * Read this wiki thoroughly and familiarize yourself with how Geoelements team operates. 
 
